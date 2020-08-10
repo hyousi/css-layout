@@ -67,6 +67,7 @@ main {
 
 #relationship {
   padding: 2em 10%;
+  display: inline-block;
 }
 
 #relationship img {
